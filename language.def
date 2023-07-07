@@ -1,0 +1,17 @@
+[enu default]
+
+SINITEM_40MM = "40mm Frag Grenade";
+SINITEM_40MMPKUP = "Picked up a 40mm fragmentation grenade round.";
+SINITEM_40MMDESC = "A handmade 40mm grenade round. While 40mm launchers were basically outlawed at the time the invasion started, the FRG4's handle happens to be exactly the right size--and hollow, too. Naturally, clever gunsmiths figured out how to take advantage.";
+
+SINWEAP_GL = "40mm Launcher";
+SINWEAP_GLPKUP = "Picked up a 40mm grenade launcher.";
+SINWEAP_GLDESC = "The serial number and branding are filed off, but this is likely a Spriteflat M94 grenade launcher. The distinctive sliding breech cover allows relatively easy reloading--and since this thing was made before the UAC-backed Weapons Licensing Act, the exact specifications of a 40mm round are common knowledge.";
+
+SINAMMO_40MMBOX = "40mm Frag Box";
+SINAMMO_40MMBOXPKUP = "Picked up a box of 40mm frag rounds.";
+SINAMMO_40MMBOXDESC = "A box designed to fit 40mm fragmentation grenade rounds. A sticker depicting a 40mm grenade has been taped over the label; wooden inserts have been added to hold the grenades securely. Since the primers are handmade, you shouldn't pack the grenades too tightly.";
+
+SINMOD_GLDRUM = "40mm Drum Mag";
+SINMOD_GLDRUMPKUP = "Picked up a 40mm drum magazine.";
+SINMOD_GLDRUMDESC = "A crudely-designed drum magazine for the Spriteflat M94, clearly welded together by a former metalworker. It uses a simple spring mechanism, designed to engage with the sliding breech on the M94, giving it a much larger capacity. However, loading the weapon is still finicky.";
